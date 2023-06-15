@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Conditionals</id>
+    <version>1.0.0</version>
+    <authors>Conditionals</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/chinhdo/Documents/Github/learning-csharp-linkedin/ExerciseFiles/Start/Program Flow/Conditional-if/bin/Debug/net7.0/Conditionals.runtimeconfig.json" target="lib/net7.0/Conditionals.runtimeconfig.json" />
+    <file src="/Users/chinhdo/Documents/Github/learning-csharp-linkedin/ExerciseFiles/Start/Program Flow/Conditional-if/bin/Debug/net7.0/Conditionals.dll" target="lib/net7.0/Conditionals.dll" />
+  </files>
+</package>
