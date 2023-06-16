@@ -1,0 +1,15 @@
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/WhileLoops/obj/Debug/net7.0/WhileLoops.csproj.AssemblyReference.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/WhileLoops/obj/Debug/net7.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/WhileLoops/obj/Debug/net7.0/WhileLoops.AssemblyInfoInputs.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/WhileLoops/obj/Debug/net7.0/WhileLoops.AssemblyInfo.cs
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/WhileLoops/obj/Debug/net7.0/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/WhileLoops/bin/Debug/net7.0/WhileLoops
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/WhileLoops/bin/Debug/net7.0/WhileLoops.deps.json
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/WhileLoops/bin/Debug/net7.0/WhileLoops.runtimeconfig.json
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/WhileLoops/bin/Debug/net7.0/WhileLoops.dll
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/WhileLoops/bin/Debug/net7.0/WhileLoops.pdb
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/WhileLoops/obj/Debug/net7.0/WhileLoops.dll
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/WhileLoops/obj/Debug/net7.0/refint/WhileLoops.dll
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/WhileLoops/obj/Debug/net7.0/WhileLoops.pdb
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/WhileLoops/obj/Debug/net7.0/WhileLoops.genruntimeconfig.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/WhileLoops/obj/Debug/net7.0/ref/WhileLoops.dll
