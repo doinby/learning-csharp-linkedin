@@ -1,0 +1,15 @@
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/ProgChallengeStart/obj/Debug/net7.0/ProgChallengeStart.csproj.AssemblyReference.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/ProgChallengeStart/obj/Debug/net7.0/ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/ProgChallengeStart/obj/Debug/net7.0/ProgChallengeStart.AssemblyInfoInputs.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/ProgChallengeStart/obj/Debug/net7.0/ProgChallengeStart.AssemblyInfo.cs
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/ProgChallengeStart/obj/Debug/net7.0/ProgChallengeStart.csproj.CoreCompileInputs.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/ProgChallengeStart/bin/Debug/net7.0/ProgChallengeStart
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/ProgChallengeStart/bin/Debug/net7.0/ProgChallengeStart.deps.json
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/ProgChallengeStart/bin/Debug/net7.0/ProgChallengeStart.runtimeconfig.json
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/ProgChallengeStart/bin/Debug/net7.0/ProgChallengeStart.dll
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/ProgChallengeStart/bin/Debug/net7.0/ProgChallengeStart.pdb
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/ProgChallengeStart/obj/Debug/net7.0/ProgChallengeStart.dll
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/ProgChallengeStart/obj/Debug/net7.0/refint/ProgChallengeStart.dll
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/ProgChallengeStart/obj/Debug/net7.0/ProgChallengeStart.pdb
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/ProgChallengeStart/obj/Debug/net7.0/ProgChallengeStart.genruntimeconfig.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/ProgChallengeStart/obj/Debug/net7.0/ref/ProgChallengeStart.dll

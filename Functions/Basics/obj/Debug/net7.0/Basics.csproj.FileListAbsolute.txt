@@ -1,0 +1,15 @@
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Functions/Basics/obj/Debug/net7.0/Basics.csproj.AssemblyReference.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Functions/Basics/obj/Debug/net7.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Functions/Basics/obj/Debug/net7.0/Basics.AssemblyInfoInputs.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Functions/Basics/obj/Debug/net7.0/Basics.AssemblyInfo.cs
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Functions/Basics/obj/Debug/net7.0/Basics.csproj.CoreCompileInputs.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Functions/Basics/bin/Debug/net7.0/Basics
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Functions/Basics/bin/Debug/net7.0/Basics.deps.json
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Functions/Basics/bin/Debug/net7.0/Basics.runtimeconfig.json
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Functions/Basics/bin/Debug/net7.0/Basics.dll
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Functions/Basics/bin/Debug/net7.0/Basics.pdb
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Functions/Basics/obj/Debug/net7.0/Basics.dll
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Functions/Basics/obj/Debug/net7.0/refint/Basics.dll
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Functions/Basics/obj/Debug/net7.0/Basics.pdb
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Functions/Basics/obj/Debug/net7.0/Basics.genruntimeconfig.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Functions/Basics/obj/Debug/net7.0/ref/Basics.dll

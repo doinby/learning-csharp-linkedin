@@ -17,10 +17,10 @@ namespace StringInterpolation
 
 
             // TODO: Using string interpolation
-
+            // Console.WriteLine($"This car is a {year} {make} {model}, with {miles} miles and cost ${price:C2}");
 
             // TODO: With inline expressions
-
+            Console.WriteLine($"This car is a {year} {make} {model}, with {{{miles * 1.6:F2}}} kms and cost ${price:C2}");
         }
     }
 }

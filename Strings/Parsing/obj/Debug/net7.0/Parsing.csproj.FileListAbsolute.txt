@@ -1,0 +1,15 @@
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/Parsing/bin/Debug/net7.0/Parsing
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/Parsing/bin/Debug/net7.0/Parsing.deps.json
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/Parsing/bin/Debug/net7.0/Parsing.runtimeconfig.json
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/Parsing/bin/Debug/net7.0/Parsing.dll
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/Parsing/bin/Debug/net7.0/Parsing.pdb
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/Parsing/obj/Debug/net7.0/Parsing.csproj.AssemblyReference.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/Parsing/obj/Debug/net7.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/Parsing/obj/Debug/net7.0/Parsing.AssemblyInfoInputs.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/Parsing/obj/Debug/net7.0/Parsing.AssemblyInfo.cs
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/Parsing/obj/Debug/net7.0/Parsing.csproj.CoreCompileInputs.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/Parsing/obj/Debug/net7.0/Parsing.dll
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/Parsing/obj/Debug/net7.0/refint/Parsing.dll
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/Parsing/obj/Debug/net7.0/Parsing.pdb
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/Parsing/obj/Debug/net7.0/Parsing.genruntimeconfig.cache
+/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Strings/Parsing/obj/Debug/net7.0/ref/Parsing.dll
