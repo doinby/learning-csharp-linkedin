@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9d4W4Qi5Oqz3BIoMrxLf2wQJp3uXcU3nDqvEH/VLKZRDVMHDkYKUKqRji5woR9/QujuepFZ2BhO9rxHMmLkwcw==",
+  "success": true,
+  "projectFilePath": "/Users/chinhdo/Documents/Github/learning-csharp-linkedin/Classes/ProgChallenge/ProgChallenge.csproj",
+  "expectedPackageFiles": [
+    "/Users/chinhdo/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/chinhdo/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/chinhdo/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
